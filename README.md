@@ -9,6 +9,7 @@ Projects Included
 This repository includes multiple small applications such as:
 
 1.Stone , Paper , scissors game
+2.to-do-list
 
 More projects will be added regularly as part of continuous learning and practice.
 
@@ -23,4 +24,5 @@ Practice frontend development concepts
 Improve logic building and coding skills
 
 Prepare for interviews, hackathons, and real-world projects
+
 
